@@ -1,0 +1,13 @@
+# LABEL file 
+
+item {
+    id: 1
+    name:'lion'
+}
+
+item {
+    id: 2
+    name: 'tiger'
+}
+
+
