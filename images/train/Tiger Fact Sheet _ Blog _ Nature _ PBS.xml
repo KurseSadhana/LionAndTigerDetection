@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tigersResized</folder>
+	<filename>Tiger Fact Sheet _ Blog _ Nature _ PBS.jpg</filename>
+	<path>W:\RnD\PythonAIandMl\tigersResized\Tiger Fact Sheet _ Blog _ Nature _ PBS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>19</ymin>
+			<xmax>257</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

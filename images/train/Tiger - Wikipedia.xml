@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tigersResized</folder>
+	<filename>Tiger - Wikipedia.jpg</filename>
+	<path>W:\RnD\PythonAIandMl\tigersResized\Tiger - Wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>135</ymin>
+			<xmax>475</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

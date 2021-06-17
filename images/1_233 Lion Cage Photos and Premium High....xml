@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lionsResized</folder>
+	<filename>1_233 Lion Cage Photos and Premium High....jpg</filename>
+	<path>W:\RnD\PythonAIandMl\lionsResized\1_233 Lion Cage Photos and Premium High....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>4</ymin>
+			<xmax>460</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

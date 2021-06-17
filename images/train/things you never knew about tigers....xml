@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tigersResized</folder>
+	<filename>things you never knew about tigers....jpg</filename>
+	<path>W:\RnD\PythonAIandMl\tigersResized\things you never knew about tigers....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>38</ymin>
+			<xmax>287</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

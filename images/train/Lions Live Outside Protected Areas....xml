@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lionsResized</folder>
+	<filename>Lions Live Outside Protected Areas....jpg</filename>
+	<path>W:\RnD\PythonAIandMl\lionsResized\Lions Live Outside Protected Areas....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>189</ymin>
+			<xmax>402</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>308</ymin>
+			<xmax>479</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tigersResized</folder>
+	<filename>Tiger King_ stars_ legal troubles could....jpg</filename>
+	<path>W:\RnD\PythonAIandMl\tigersResized\Tiger King_ stars_ legal troubles could....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>66</ymin>
+			<xmax>391</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
