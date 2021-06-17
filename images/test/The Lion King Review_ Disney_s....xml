@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lionsResized</folder>
+	<filename>The Lion King Review_ Disney_s....png</filename>
+	<path>W:\RnD\PythonAIandMl\lionsResized\The Lion King Review_ Disney_s....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>3</ymin>
+			<xmax>482</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

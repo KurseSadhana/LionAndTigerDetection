@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tigersResized</folder>
+	<filename>Vaccination could save Siberian tigers....jpg</filename>
+	<path>W:\RnD\PythonAIandMl\tigersResized\Vaccination could save Siberian tigers....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>51</ymin>
+			<xmax>300</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
